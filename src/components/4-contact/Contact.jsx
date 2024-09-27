@@ -1,7 +1,7 @@
 import { DotLottieReact } from "@lottiefiles/dotlottie-react";
 export default function Contact() {
   return (
-    <section id="contact" className=" mt-12 px-9">
+    <section id="contact" className=" mt-12 px-9 py-9">
       <div className="flex justify-between">
         <div>
           <div>
