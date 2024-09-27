@@ -14,7 +14,7 @@ export default function Hero() {
   }, [scroll]);
 
   return (
-    <section id="hero" className="flex items-start mt-12 px-9">
+    <section id="hero" className="flex items-start mt-12 px-9 py-9">
       <div className="flex-1">
         <figure className="flex items-end gap-2">
           <img
