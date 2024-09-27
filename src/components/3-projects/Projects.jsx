@@ -10,7 +10,7 @@ export default function Projects() {
     setArray(data.filter((item) => item.category === category));
   };
   return (
-    <section id="projects" className="mt-12 px-9">
+    <section id="projects" className="mt-12 px-9 py-9">
       <ul className="flex flex-wrap gap-4 w-fit mx-auto">
         <li
           onClick={() => {
