@@ -47,7 +47,7 @@ export default function Header() {
           <li>
             <a 
               className="text-title text-[.88rem] opacity-90 font-medium hover:text-[.9rem] hover:text-blue hover:opacity-100 transition-colors  "
-              href="projects"
+              href="#projects"
             >
               Projects
             </a>
